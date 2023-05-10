@@ -1,7 +1,7 @@
 # UISpecDocument
-->[Requirements](head2)
+->[Requirements](#requirements)
 
-->[Components](head)
+->[Components](#components)
 #### **Requirements**
 In the beginning of the user management screen, top navigation bar should be presented. In the navigation bar, **New User** button , **Hide Disabled User** checkbox and **Save User** button exists. These are the **must** of the user management screen.
 
@@ -19,6 +19,3 @@ In the beginning of the user management screen, top navigation bar should be pre
   - Enabled: **Label** -->> **Checkbox**
 + User **Table**
   - **Table Headers** : "ID", "User Name", "Email", "Enabled"
-
-[head]: #components
-[head2]: #requirements
