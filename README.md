@@ -85,4 +85,5 @@ This table will be used to display all of users' ID, User Name, Email and option
 
 ### Behavior of Page
 
+User Management Screen needs to handle user data and new user entry. There should be a table of user information in the content aligned to the left side of the page. Table headers need to order data of each column. Top side of the page, there should be a navigation bar which displays New User button and Hide Disabled User checkbox. Pressing New User button needs to navigate us to New User Form. Also, another button named Save User button should be appeared at the right side of the navigation bar. After filling the form, pressing Save User button has to save the user. Saved user needs to be in the user table. 
 
